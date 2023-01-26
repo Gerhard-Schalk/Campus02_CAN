@@ -3,13 +3,13 @@
 ## Mit dem privaten WLAN verbinden
 SSID: `A1-4883e1`
 
-WPA2 PWD: `pe5fixhe7f9c`
+WPA2 PWD: `xxxxxxxxxxx`
 
 
 ## Via SSH mit dem Raspberry Pi verbinden
 Verbind via SSH: `ssh pi@raspberrypi`
 
-Pi PWD: `Campus02#ADT`
+Pi PWD: `xxxxxxxxxxx`
 
 
 ## Privates Verzeichnis erstellen
